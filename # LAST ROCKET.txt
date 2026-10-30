@@ -1,0 +1,35 @@
+# LAST ROCKET
+
+Earth went silent. You are Cadet Vale, the last pilot in a battered combat mech,
+sent down to find out why. A third-person boss-rush horror shooter made in Unity 6.
+
+## Features
+- Five boss fights: the Hound, the Assembler, the Choir, Mother-Lode and Zero
+- Dash/dodge with invulnerability frames and a charged double jump
+- Mech upgrades (shield, jets, overdrive) unlocked at beacons
+- Checkpoints and saves
+- Three difficulty levels, chosen at the start of each new run
+- Dark atmospheric world with rain, fog and a custom URP shader set
+- PBR-baked models for the bosses, props and player
+
+## Controls
+| Key | Action |
+|---|---|
+| W A S D | Move |
+| Mouse | Aim / look |
+| Space | Jump (press again in the air to double jump) |
+| Shift | Dash |
+| Esc | Pause |
+| N (while paused) | New game |
+| Q (while paused) | Quit |
+
+## Requirements
+- Windows 10/11 64-bit, DirectX 12 GPU
+
+## Build from source
+1. Open the project with Unity 6000.6.7f1.
+2. Choose **LastRocket → BUILD EVERYTHING** to generate the world.
+3. Press Play, or use **LastRocket → Build Player** for a Windows build.
+
+## Credits
+See CREDITS.md.
